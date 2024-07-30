@@ -1,4 +1,4 @@
 env
 MSCallGraph_0.csv
 test.png
-*casper_traces.csv
+*casper_*.csv
