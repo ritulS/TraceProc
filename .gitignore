@@ -2,3 +2,4 @@ env
 MSCallGraph_0.csv
 test.png
 *casper_*.csv
+downsampled_graphs/
