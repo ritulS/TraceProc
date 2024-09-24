@@ -8,3 +8,4 @@ naive_sampled_graphs/
 trace_data/
 node_and_trace_details/
 backup_traces/
+output_data/
